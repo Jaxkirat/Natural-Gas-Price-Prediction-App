@@ -31,5 +31,5 @@ The **Natural Gas Price Prediction** application uses historical data to predict
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/natural-gas-price-prediction.git
+git clone https://github.com/yourusername/natural-gas-price-prediction.git](https://github.com/Jaxkirat/Natural-Gas-Price-Prediction-App.git
 cd natural-gas-price-prediction
