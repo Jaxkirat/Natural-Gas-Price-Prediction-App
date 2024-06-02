@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Natural Gas Price Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="video-container">
+        <video autoplay muted loop class="background-video">
+            <source src="{{ url_for('static', filename='background.mp4') }}" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+    <div class="container">
+        <div class="header">
+            <img src="{{ url_for('static', filename='gas-logo.png') }}" alt="Natural Gas Logo" class="logo">
+            <h1>Natural Gas Price Prediction</h1>
+        </div>
+        <form id="prediction-form">
+            <label for="date">Select Date:</label>
+            <input type="date" id="date" name="date" required>
+            <button type="submit">Predict</button>
+        </form>
+        <div id="result"></div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
