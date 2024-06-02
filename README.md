@@ -15,6 +15,10 @@ The **Natural Gas Price Prediction** application uses historical data to predict
 
 ## Demo
 
+
+https://github.com/Jaxkirat/Natural-Gas-Price-Prediction-App/assets/77850299/6a0d050f-be3a-4fa1-8b42-eebbf8f7a9cc
+
+
 ![Demo](static/demo.gif)
 
 ## Installation
