@@ -47,35 +47,38 @@ python app.py
 ### Access the Application
 Open your web browser and go to http://127.0.0.1:5000
 
-### Usage
+## Usage
 1. Open the application in your web browser.
 2. Select a date using the date picker.
 3. Click the Predict button.
 4. The predicted natural gas price for the selected date will be displayed.
 
-### Screenshots
-#### Home Page
+## Screenshots
+### Home Page
 
 ![home screen ss](https://github.com/Jaxkirat/Natural-Gas-Price-Prediction-App/assets/77850299/277e75b7-ef28-4a48-af5d-9935e1a77c62)
 
-#### Prediction Result
+### Prediction Result
 
 ![Result page ss](https://github.com/Jaxkirat/Natural-Gas-Price-Prediction-App/assets/77850299/e734bc1c-f6f1-40ab-8cac-1dff8d7de5b6)
 
-### Technologies Used
+## Technologies Used
 Frontend: HTML, CSS, JavaScript
 Backend: Flask, Python
 Machine Learning: Scikit-learn
 Data Visualization: Matplotlib, Seaborn
 
-### Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-### License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Acknowledgements
+## Acknowledgements
 1. Thanks to the developers of Flask, Pandas, and Scikit-learn.
 2. Inspired by the need for accurate and timely natural gas price predictions.
 3. Made this project at my internship in ONGC.
+
+## Author 
+- Jaskirat Singh
 
