@@ -38,4 +38,10 @@ https://github.com/Jaxkirat/Natural-Gas-Price-Prediction-App/assets/77850299/6a0
 ```bash
 git clone https://github.com/Jaxkirat/Natural-Gas-Price-Prediction-App.git
 cd natural-gas-price-prediction
+```
+
+### Install Dependencies
+```bash
+pip install -r requirements.txt
+```
 
