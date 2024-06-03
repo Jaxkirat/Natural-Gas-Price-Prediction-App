@@ -44,4 +44,17 @@ cd natural-gas-price-prediction
 ```bash
 pip install -r requirements.txt
 ```
+### Run the Application 
+```bash
+python app.py
+```
+### Access the Application
+Open your web browser and go to http://127.0.0.1:5000
+
+### Usage
+1. Open the application in your web browser.
+2. Select a date using the date picker.
+3. Click the Predict button.
+4. The predicted natural gas price for the selected date will be displayed.
+
 
