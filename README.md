@@ -71,9 +71,6 @@ Open your web browser and go to http://127.0.0.1:5000
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 1. Thanks to the developers of Flask, Pandas, and Scikit-learn.
 2. Inspired by the need for accurate and timely natural gas price predictions.
